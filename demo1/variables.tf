@@ -5,7 +5,7 @@
 variable "prefix" {
   description = "A unique identifier need to provision resources. Must begin with a letter"
   type        = string
-  default     = "luxtrust"
+  default     = "tfdemo"
 }
 
 variable "region" {
