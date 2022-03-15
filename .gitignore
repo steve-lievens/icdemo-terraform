@@ -1,2 +1,5 @@
 /.DS_Store
 /mytodo-master.zip
+*.tfstate
+*.tfstate.backup
+*.lock.hcl
